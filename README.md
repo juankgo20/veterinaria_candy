@@ -10,4 +10,15 @@ Luego de haber ingresado la información tanto del propietario de la mascota com
 con este id se podra consultar desde el dashboard el servicio solicitado y estado de la cita, podras confirmar o editar la cita, eliminar.
 podras desde la consola modificar el logo, el background.
 
-El usuario y la contraseña de acceso es prueba
+###########################################################################################################
+
+Descargar el proyecto agregarlo a Xampp - htdocs - le das el nombre de tu preferencia al proyecto
+
+Luego desde http://localhost/phpmyadmin/ crear base de datos ovas_db y importar la base de datos que esta en el master del proyecto
+ovas (online veterinary appointment system)
+
+luego cargar la url http://localhost/A qui va el nombre que le asiganste al proyecto/
+
+
+El usuario y la contraseña de acceso es: 
+prueba
