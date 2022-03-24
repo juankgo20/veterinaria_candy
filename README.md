@@ -17,7 +17,7 @@ Descargar el proyecto agregarlo a Xampp - htdocs - le das el nombre de tu prefer
 Luego desde http://localhost/phpmyadmin/ crear base de datos ovas_db y importar la base de datos que esta en el master del proyecto
 ovas (online veterinary appointment system)
 
-luego cargar la url http://localhost/A qui va el nombre que le asiganste al proyecto/
+luego cargar la url http://localhost/aca va el nombre que le asiganste al proyecto/
 
 
 El usuario y la contraseña de acceso es: 
