@@ -1,4 +1,5 @@
 # veterinaria_candy
+el proyecto esta en el master
 Sistema de citas para veterinaria con PHP y MYSQL
 
 Este es un sistema con el cual se podra realizar crear servicios prestados por una veterinaria 
