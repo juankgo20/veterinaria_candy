@@ -176,7 +176,7 @@ Class Master extends DBConnection {
 	}
 	function save_appointment(){
 		if(empty($_POST['id'])){
-			$prefix="OVAS-".date("Ym");
+			$prefix="CANDY-".date("Ym");
 			$code = sprintf("%'.04d",1);
 			while(true){
 				$check = $this->conn->query("SELECT * FROM `appointment_list` where code = '{$prefix}{$code}' ")->num_rows;
